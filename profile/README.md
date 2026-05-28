@@ -6,7 +6,11 @@ Built for teams to create and collaborate on mission-critical internal
 software. Loved by engineers for full code flexibility and control over their
 infrastructure.
 
-<https://orvanta.cloud>
+<https://orvanta.ai>
+
+## Orvanta Cloud
+
+The platform: <https://orvanta.cloud>
 
 ## Documentation
 
