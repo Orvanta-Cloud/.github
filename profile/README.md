@@ -22,4 +22,8 @@ CLI Docs for LLMs and AI code editors: <https://context7.com/orvanta-cloud/orvan
 
 ## Communication
 
+Public feedback, bug reports, and feature requests for the Orvanta Platform.
+
+Support: <https://github.com/Orvanta-Cloud/orvanta-support>
+
 Email: support@orvanta.cloud
