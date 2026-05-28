@@ -12,7 +12,9 @@ The platform: <https://orvanta.cloud>
 
 ## Documentation
 
-<https://docs.orvanta.cloud>
+Orvanta Docs for Developers: <https://docs.orvanta.cloud>
+
+CLI Docs for LLMs and AI code editors: <https://context7.com/orvanta-cloud/orvanta-cli-docs>
 
 ## Main repo
 
